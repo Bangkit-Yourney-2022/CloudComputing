@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/89693955/173196650-5da9c1c4-c5ee-407c-85c6-0f491dfe8c5e.png" alt="Logo of the project" align="right">
 
-# YOURNEY (Your Smart Virtual Assistant to Great Your Future) &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
+# YOURNEY (Your Smart Virtual Assistant to Great Your Future) &middot; 
 
 Yourney API Documentation EndPoint: https://nlp-model-yourney-bismillah-fix-lslrhnaybq-et.a.run.app Available endpoints:
 
